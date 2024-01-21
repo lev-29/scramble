@@ -23,7 +23,7 @@ body{
 .box{
     background-color: white;
     width: 530px;
-    height: 350px;
+    height: 360px;
     border-radius: 8px 8px 8px 8px;
     border: 1px solid #1a2e35;
     box-shadow: 4px 4px #1a2e35;
@@ -53,7 +53,7 @@ body{
 
 .content input{
     margin-left: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     width: 70%;
     height: 35px;
     outline: none;
