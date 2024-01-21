@@ -1,11 +1,23 @@
+/* importing google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    font-family: 'Merriweather', serif;
+}
+
 body{
     display: flex;
+    margin: 0;
 }
 
 .container{
     width: 750px;
-    height: 700px;
-    box-shadow: 5px 0px 8px 3px;
+    height: 710px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #5aefa8;
 }
 
 #image{
