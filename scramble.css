@@ -1,0 +1,14 @@
+body{
+    display: flex;
+}
+
+.container{
+    width: 750px;
+    height: 700px;
+    box-shadow: 5px 0px 8px 3px;
+}
+
+#image{
+    width: 700px;
+    height: 700px;    
+}
