@@ -16,3 +16,5 @@
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+This README was generated with ❤️ by readme-md-generator
