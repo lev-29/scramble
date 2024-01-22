@@ -9,7 +9,7 @@
 
 ## Author
 
-👤 **Neha/lev-29**
+👤 **Neha**
 
 * Github: [@lev-29](https://github.com/lev-29)
 
